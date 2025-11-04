@@ -137,7 +137,7 @@ export default defineConfig({
     formatting: 'minify',
     onFinished() {
       generateSitemap({
-        hostname: 'https://mikka.im',
+        hostname: 'https://cvyl.me',
         generateRobotsTxt: true,
         robots: [
           { userAgent: '*', allow: '/' },
@@ -195,7 +195,7 @@ export default defineConfig({
         ],
       });
       const blogDir = path.resolve(__dirname, 'src/blog');
-      const baseUrl = 'https://mikka.im';
+      const baseUrl = 'https://cvyl.me';
       const outDir = path.resolve(__dirname, 'dist');
 
       const posts = fs.readdirSync(blogDir)

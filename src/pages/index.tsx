@@ -12,14 +12,14 @@ export default defineComponent({
 		useHead({
 			meta: [
 				{ name: 'description', content: 'Personal blog posts and notes' },
-				{ name: 'og:url', content: 'https://mikka.im/' },
+				{ name: 'og:url', content: 'https://cvyl.me/' },
 				{ name: 'og:type', content: 'website' },
 				{ property: 'og:title', content: "Mikka's Blog" },
 				{ property: 'og:description', content: 'Personal blog posts and notes' },
 				{ property: 'twitter:title', content: "Mikka's Blog" },
 				{ property: 'twitter:description', content: 'Personal blog posts and notes' }
 			],
-			link: [{ rel: 'canonical', href: 'https://mikka.im/' }]
+			link: [{ rel: 'canonical', href: 'https://cvyl.me/' }]
 		})
 
 		const highlightRef = ref()

@@ -8,9 +8,9 @@ export default defineComponent({
 	setup() {
 		useHead({
 			title: 'GPG 公钥',
-			link: [{ rel: 'canonical', href: 'https://mikka.im/pgp' }],
+			link: [{ rel: 'canonical', href: 'https://cvyl.me/pgp' }],
 			meta: [
-				{ property: 'og:url', content: 'https://mikka.im/pgp' },
+				{ property: 'og:url', content: 'https://cvyl.me/pgp' },
 				{ name: 'description', content: '凌莞 GPG 公钥的复制与下载' },
 				{ property: 'og:title', content: 'GPG 公钥' },
 				{ property: 'og:description', content: '凌莞 GPG 公钥的复制与下载' },

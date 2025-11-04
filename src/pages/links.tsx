@@ -20,9 +20,9 @@ export default defineComponent({
 	setup() {
 		useHead({
 			title: 'Links',
-			link: [{ rel: 'canonical', href: 'https://mikka.im/links' }],
+			link: [{ rel: 'canonical', href: 'https://cvyl.me/links' }],
 			meta: [
-				{ property: 'og:url', content: 'https://mikka.im/links' },
+				{ property: 'og:url', content: 'https://cvyl.me/links' },
 				{ name: 'description', content: 'A curated collection of useful links and resources' },
 				{ property: 'og:title', content: 'Links' },
 				{ property: 'og:description', content: 'A curated collection of useful links and resources' },

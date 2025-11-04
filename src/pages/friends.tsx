@@ -23,9 +23,9 @@ export default defineComponent({
 
 		useHead({
 			title: '友情链接',
-			link: [{ rel: 'canonical', href: 'https://mikka.im/friends' }],
+			link: [{ rel: 'canonical', href: 'https://cvyl.me/friends' }],
 			meta: [
-				{ property: 'og:url', content: 'https://mikka.im/friends' },
+				{ property: 'og:url', content: 'https://cvyl.me/friends' },
 				{ name: 'description', content: '我的朋友列表' },
 				{ property: 'og:title', content: '友情链接' },
 				{ property: 'og:description', content: '我的朋友列表' },

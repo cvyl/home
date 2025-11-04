@@ -238,10 +238,10 @@ export default defineComponent({
 		// Set up head with reactive refs
 		useHead({
 			title: () => title.value || 'Mikka\'s Blog',
-			link: [{ rel: 'canonical', href: `https://mikka.im/blog/${route.params.slug}` }],
+			link: [{ rel: 'canonical', href: `https://cvyl.me/blog/${route.params.slug}` }],
 			meta: [
 				{ name: 'description', content: () => description.value },
-				{ property: 'og:url', content: `https://mikka.im/blog/${route.params.slug}` },
+				{ property: 'og:url', content: `https://cvyl.me/blog/${route.params.slug}` },
 				{ property: 'og:type', content: 'article' },
 				{ property: 'og:title', content: () => title.value },
 				{ property: 'og:site_name', content: "Mikka's Blog" },
@@ -253,7 +253,7 @@ export default defineComponent({
 				{ property: 'twitter:description', content: () => description.value },
 				{ property: 'twitter:card', content: 'summary_large_image' },
 				{ property: 'twitter:image', content: () => cover.value },
-				{ property: 'twitter:site', content: 'https://mikka.im' },
+				{ property: 'twitter:site', content: 'https://cvyl.me' },
 			]
 		})
 

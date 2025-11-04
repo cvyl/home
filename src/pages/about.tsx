@@ -6,9 +6,9 @@ export default defineComponent({
 	setup() {
 		useHead({
 			title: '关于我',
-			link: [{ rel: 'canonical', href: 'https://mikka.im/about' }],
+			link: [{ rel: 'canonical', href: 'https://cvyl.me/about' }],
 			meta: [
-				{ property: 'og:url', content: 'https://mikka.im/about' },
+				{ property: 'og:url', content: 'https://cvyl.me/about' },
 				{ name: 'description', content: '这里可能有一些你想了解的信息' },
 				{ property: 'og:title', content: '关于我' },
 				{ property: 'og:description', content: '这里可能有一些你想了解的信息' },

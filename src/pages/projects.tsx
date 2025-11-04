@@ -22,9 +22,9 @@ export default defineComponent({
 
 		useHead({
 			title: '项目列表',
-			link: [{ rel: 'canonical', href: 'https://mikka.im/projects' }],
+			link: [{ rel: 'canonical', href: 'https://cvyl.me/projects' }],
 			meta: [
-				{ property: 'og:url', content: 'https://mikka.im/projects' },
+				{ property: 'og:url', content: 'https://cvyl.me/projects' },
 				{ name: 'description', content: 'Mikka的项目列表' },
 				{ property: 'og:title', content: '项目列表' },
 				{ property: 'og:description', content: 'Mikka的项目列表' },
