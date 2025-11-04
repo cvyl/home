@@ -21,7 +21,7 @@ export default defineComponent({
 		return () => (
 			<>
 				<a
-					href='mailto:i@xs.ax'
+					href='mailto:i@cvyl.me'
 					aria-label='Email'
 					onMouseenter={props.hoverHandler}
 					onFocus={props.hoverHandler}

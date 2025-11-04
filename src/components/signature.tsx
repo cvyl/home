@@ -1,5 +1,5 @@
 import { Signature } from '../components/icons/signature'
-import styles from '../components/signature.module.sass'
+import styles from './signature.module.sass'
 
 export default defineComponent({
 	setup() {

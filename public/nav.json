@@ -1,0 +1,287 @@
+[
+  {
+    "title": "学习汉语 - Chinese Learning",
+    "items": [
+      {
+        "icon": "https://g.csdnimg.cn/static/logo/favicon32.ico",
+        "title": "CSDN",
+        "desc": "专业开发者社区",
+        "link": "https://www.csdn.net/?ydreferer=aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnLw%3D%3D"
+      },
+      {
+        "icon": "https://www.confuciusgroningen.nl/static/img/favicons/favicon-32x32.png",
+        "title": "HSK/HSKK Test",
+        "desc": "Groningen Confucius Institute - HSK/HSKK Test",
+        "link": "https://www.confuciusgroningen.nl/hskhskk-test"
+      },
+      {
+        "icon": "https://www.chinesetest.cn/favicon.ico",
+        "title": "考试服务网",
+        "desc": "Chinese test service website",
+        "link": "https://www.chinesetest.cn/test-centers"
+      },
+      {
+        "icon": "https://goeastmandarin.com/wp-content/uploads/2019/04/favicon.ico",
+        "title": "GoEast Mandarin",
+        "desc": "Online and in-person Chinese classes",
+        "link": "https://goeastmandarin.com/"
+      }
+    ]
+  },
+  {
+    "title": "编程学习 - Programming Resources",
+    "items": [
+      {
+        "icon": "https://www.tsdev.cn/favicon.ico",
+        "title": "5分钟了解 TypeScript",
+        "desc": "TypeScript 中文手册",
+        "link": "https://www.tsdev.cn/tutorials/typescript-in-5-minutes.html"
+      },
+      {
+        "icon": "",
+        "title": "Learn Next.js 中文教程",
+        "desc": "页面之间导航",
+        "link": "https://qufei1993.github.io/nextjs-learn-cn/chapter1"
+      },
+      {
+        "icon": "https://shadcn.dev/favicon.png",
+        "title": "ShadCN/UI",
+        "desc": "Collection of React components for building applications",
+        "link": "https://github.com/shadcn-ui/ui"
+      },
+      {
+        "icon": "https://cult-ui.dev/favicon.ico",
+        "title": "Cult-UI",
+        "desc": "React component library focused on aesthetics",
+        "link": "https://github.com/nolly-studio/cult-ui"
+      }
+    ]
+  },
+  {
+    "title": "日语学习 - Japanese Learning Resources",
+    "items": [
+      {
+        "icon": "https://ssl.gstatic.com/docs/spreadsheets/spreadsheets_2023q4.ico",
+        "title": "Migaku日本語",
+        "desc": "Google Spreadsheets with resources for learning Japanese",
+        "link": "https://docs.google.com/spreadsheets/d/1O5ZtAMPoMA8cl15oSc_E3LBODEKhC2-fmTKwoSiHaTk/edit#gid=2089349054"
+      },
+      {
+        "icon": "https://djtguide.github.io/favicon.ico",
+        "title": "DJT日本語",
+        "desc": "Guide to learning Japanese",
+        "link": "https://djtguide.github.io/"
+      },
+      {
+        "icon": "https://github.githubassets.com/favicon.ico",
+        "title": "Menhera-Chan Stickers",
+        "desc": "Discord bot for Menhera-Chan sticker collection",
+        "link": "https://github.com/a-wing/Menhera-chan"
+      }
+    ]
+  },
+  {
+    "title": "跨性别资源 - Transgender Resources",
+    "items": [
+      {
+        "icon": "",
+        "title": "Easing Dysphoria!",
+        "desc": "Advice for easing gender dysphoria",
+        "link": "https://antidysphoria.carrd.co/"
+      },
+      {
+        "icon": "https://turn-me-into-a-girl.com/favicon.ico",
+        "title": "Turn me into a girl",
+        "desc": "Cute website for transfeminine people",
+        "link": "https://turn-me-into-a-girl.com/"
+      },
+      {
+        "icon": "https://github.githubassets.com/favicon.ico",
+        "title": "Awesome Transgender",
+        "desc": "Curated list of transgender resources and tools",
+        "link": "https://github.com/cvyl/awesome-transgender"
+      },
+      {
+        "icon": "https://mangadex.org/favicon.svg",
+        "title": "オレが私になるまで",
+        "desc": "Manga about transitioning",
+        "link": "https://mangadex.org/title/a781de8e-0935-45bd-bc33-cbc76ea8c6f9/ore-ga-watashi-ni-naru-made"
+      },
+      {
+        "icon": "",
+        "title": "TransChat",
+        "desc": "Advice for transgender people",
+        "link": "https://trans.chat/"
+      }
+    ]
+  },
+  {
+    "title": "开发工具 - Developer Tools",
+    "items": [
+      {
+        "icon": "https://excalidraw.com/apple-touch-icon.png",
+        "title": "Excalidraw",
+        "desc": "Sketch diagrams and wireframes",
+        "link": "https://excalidraw.com/"
+      },
+      {
+        "icon": "https://code.visualstudio.com/favicon.ico",
+        "title": "Visual Studio Code",
+        "desc": "Free source-code editor made by Microsoft",
+        "link": "https://code.visualstudio.com/"
+      },
+      {
+        "icon": "https://uptime.kuma.pet/img/icon.svg",
+        "title": "Uptime Kuma",
+        "desc": "Self-hosted monitoring tool",
+        "link": "https://uptime.kuma.pet/"
+      },
+      {
+        "icon": "https://github.githubassets.com/favicon.ico",
+        "title": "Discord History Tracker",
+        "desc": "Track message history for Discord channels",
+        "link": "https://github.com/chylex/Discord-History-Tracker"
+      },
+      {
+        "icon": "https://raw.githubusercontent.com/dunkbing/typeview/refs/heads/main/src-tauri/icons/icon.png",
+        "title": "TypeView",
+        "desc": "A minimalist typing view application",
+        "link": "https://github.com/dunkbing/typeview"
+      }
+    ]
+  },
+  {
+    "title": "机器学习 - AI Navigation, Machine Learning",
+    "items": [
+      {
+        "icon": "https://www.gstatic.com/devrel-devsite/prod/vdf5af65c45d9e2fdd493c581ff01cb1d11a21b4420a9fcc957400a26863da9d2/tensorflow/images/apple-touch-icon-180x180.png",
+        "title": "TensorFlow",
+        "desc": "An open-source machine learning framework",
+        "link": "https://www.tensorflow.org/"
+      },
+      {
+        "icon": "https://pytorch.org/favicon.ico",
+        "title": "PyTorch",
+        "desc": "An open-source machine learning library",
+        "link": "https://pytorch.org/"
+      },
+      {
+        "icon": "",
+        "title": "fast.ai",
+        "desc": "Making neural networks uncool again",
+        "link": "https://www.fast.ai/"
+      },
+      {
+        "icon": "https://www.kaggle.com/static/images/favicon.ico",
+        "title": "Kaggle",
+        "desc": "Data science competitions and datasets",
+        "link": "https://www.kaggle.com/"
+      },
+      {
+        "icon": "https://www.promptingguide.ai/144-favicon.svg",
+        "title": "Prompting Guide",
+        "desc": "A guide to using prompts for AI text generation",
+        "link": "https://www.promptingguide.ai/"
+      },
+      {
+        "icon": "https://chatgpt.com/favicon.ico",
+        "title": "ChatGPT",
+        "desc": "AI tool for helping you review code, brainstorm, and more",
+        "link": "https://chatgpt.com/"
+      }
+    ]
+  },
+  {
+    "title": "生产力工具 - Productivity Tools",
+    "items": [
+      {
+        "icon": "https://trello.com/favicon.ico",
+        "title": "Trello",
+        "desc": "Project management tool",
+        "link": "https://trello.com/"
+      },
+      {
+        "icon": "https://obsidian.md/favicon.ico",
+        "title": "Obsidian",
+        "desc": "Markdown-based knowledge management tool",
+        "link": "https://obsidian.md/"
+      },
+      {
+        "icon": "https://zotero.org/favicon.ico",
+        "title": "Zotero",
+        "desc": "Free, easy-to-use tool to help you collect, organize, cite, and share research",
+        "link": "https://www.zotero.org/"
+      },
+      {
+        "icon": "https://proton.me/favicon.ico",
+        "title": "Proton",
+        "desc": "Email, VPN, and cloud storage services with privacy focus",
+        "link": "https://proton.me/"
+      },
+      {
+        "icon": "https://raw.githubusercontent.com/amnweb/firefox-plus/main/chrome/icons/firefox-logo.svg",
+        "title": "Firefox Plus",
+        "desc": "A browser theme for an improved Firefox experience",
+        "link": "https://github.com/amnweb/firefox-plus"
+      }
+    ]
+  },
+  {
+    "title": "设计工具 - Design Tools",
+    "items": [
+      {
+        "icon": "https://static.figma.com/app/icon/1/icon-192.png",
+        "title": "Figma",
+        "desc": "Collaborative interface design tool",
+        "link": "https://www.figma.com/"
+      },
+      {
+        "icon": "https://www.canva.com/favicon.ico",
+        "title": "Canva",
+        "desc": "Online graphic design tool",
+        "link": "https://www.canva.com/"
+      },
+      {
+        "icon": "https://krita.org/images/favicon.ico",
+        "title": "Krita",
+        "desc": "Open-source digital painting software",
+        "link": "https://krita.org/"
+      },
+      {
+        "icon": "https://www.adobe.com/favicon.ico",
+        "title": "Adobe Creative Cloud",
+        "desc": "Suite of design software",
+        "link": "https://www.adobe.com/creativecloud.html"
+      }
+    ]
+  },
+  {
+    "title": "趣味与工具 - Fun and Utilities",
+    "items": [
+      {
+        "icon": "https://github.githubassets.com/favicon.ico",
+        "title": "Awesome Coins",
+        "desc": "A curated list of cryptocurrency and blockchain resources",
+        "link": "https://github.com/Zheaoli/awesome-coins"
+      },
+      {
+        "icon": "https://th-ch.github.io/youtube-music/img/youtube-music.svg",
+        "title": "YouTube Music",
+        "desc": "Electron-based YouTube Music desktop app",
+        "link": "https://th-ch.github.io/youtube-music/"
+      },
+      {
+        "icon": "https://github.githubassets.com/favicon.ico",
+        "title": "BlackFriday GPT Prompts",
+        "desc": "A list of prompt-based tools for GPT",
+        "link": "https://github.com/friuns2/BlackFriday-GPTs-Prompts"
+      },
+      {
+        "icon": "https://lihaoyun6.github.io/quickrecorder/images/QuickRecorder.png",
+        "title": "QuickRecorder",
+        "desc": "A Lightweight, Powerful and Open-Source screen recorder for macOS",
+        "link": "https://lihaoyun6.github.io/quickrecorder/"
+      }
+    ]
+  }
+]
