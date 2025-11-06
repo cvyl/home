@@ -6,6 +6,12 @@
 /rss /rss.xml 301
 /atom /atom.xml 301
 /sitemap /sitemap.xml 301
+
+# resume redirect messup fix
 /laravel-deployment-automation /blog/laravel-deployment-automation 301
 /cloudflare-ai-workers /blog/cloudflare-ai-workers 301
 /new-to-web3 /blog/new-to-web3 301
+
+/laravel-deployment-automation/ /blog/laravel-deployment-automation 301
+/cloudflare-ai-workers/ /blog/cloudflare-ai-workers 301
+/new-to-web3/ /blog/new-to-web3 301
