@@ -1,13 +1,13 @@
 [
 	{
 		"id": "short-moe",
-		"title": "Short.moe",
+		"title": "(DISCONTINUED)Short.moe",
 		"date": "2024-09-07",
 		"tags": ["URL Shortener", "Web Development"],
 		"category": "Web Service",
 		"description": "A free URL shortener service that allows you to easily shorten long URLs into shorter, more manageable links.",
 		"cover": "/gallery/projects/shortmoe.png",
-		"link": "https://short.moe"
+		"link": "https://github.com/cvyl/short.moe"
 	},
 	{
 		"id": "lgbt-sh",
@@ -17,7 +17,7 @@
 		"category": "Community",
 		"description": "A free sub-domain registration service for the LGBTQ+ community.",
 		"cover": "/gallery/projects/lgbtsh.png",
-		"link": "https://lgbt.sh"
+		"link": "https://wwwlgbt.sh"
 	},
 	{
 		"id": "awesome-transgender",
@@ -108,7 +108,7 @@
 		"category": "Web Development",
 		"description": "Website terminal project I did for fun. It has a few commands that you can run.",
 		"cover": "/gallery/lilya.jpg",
-		"link": "https://cvyl.me/terminal"
+		"link": "https://github.com/cvyl/terminal"
 	},
 	{
 		"id": "exiledanarchy",
