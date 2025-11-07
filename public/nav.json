@@ -75,7 +75,7 @@
       {
         "icon": "https://github.githubassets.com/favicon.ico",
         "title": "Menhera-Chan Stickers",
-        "desc": "Discord bot for Menhera-Chan sticker collection",
+        "desc": "Menhera-Chan sticker collection",
         "link": "https://github.com/a-wing/Menhera-chan"
       }
     ]
@@ -135,6 +135,12 @@
         "title": "Uptime Kuma",
         "desc": "Self-hosted monitoring tool",
         "link": "https://uptime.kuma.pet/"
+      },
+      {
+        "icon": "https://dockge.kuma.pet/favicon.ico",
+        "title": "Dockge",
+        "desc": "Self-hosted Docker container management tool",
+        "link": "https://dockge.kuma.pet/"
       },
       {
         "icon": "https://github.githubassets.com/favicon.ico",
